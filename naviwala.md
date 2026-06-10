@@ -5,3 +5,5 @@ Today I learned:
 - Commit
 - Push
 - Pull Request
+- Learned about branches
+- new changes made by hassan
