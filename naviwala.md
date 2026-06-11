@@ -7,3 +7,6 @@ Today I learned:
 - Pull Request
 - Learned about branches
 - new changes made by hassan
+- hahd
+- hadasd
+- hasdasd
